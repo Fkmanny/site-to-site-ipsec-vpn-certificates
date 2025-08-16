@@ -1,4 +1,4 @@
-# Project 4: Certificate-Based Site-to-Site IPSEC VPN
+# Project: Certificate-Based Site-to-Site IPSEC VPN
 
 ## Overview
 Configured a secure site-to-site VPN tunnel between two pfSense firewalls using **certificate-based authentication** (replacing pre-shared keys from Lab 3). Implemented Certificate Authorities (CAs), generated client certificates, and validated encrypted traffic between subnets `172.16.237.0/24` and `192.168.237.0/24`.
